@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/shomichiru.github.io/static/js/main.5417028f.js",
-    "static/js/846.2e637e71.js": "/shomichiru.github.io/static/js/846.2e637e71.js",
-    "static/media/MaterialCommunityIcons.ttf": "/shomichiru.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
-    "static/media/Ionicons.ttf": "/shomichiru.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
-    "favicon.ico": "/shomichiru.github.io/favicon.ico",
-    "index.html": "/shomichiru.github.io/index.html",
-    "favicon-32.png": "/shomichiru.github.io/favicon-32.png",
-    "favicon-16.png": "/shomichiru.github.io/favicon-16.png",
-    "manifest.json": "/shomichiru.github.io/manifest.json",
-    "serve.json": "/shomichiru.github.io/serve.json",
-    "main.5417028f.js.map": "/shomichiru.github.io/static/js/main.5417028f.js.map",
-    "846.2e637e71.js.map": "/shomichiru.github.io/static/js/846.2e637e71.js.map"
+    "main.js": "/static/js/main.f53980f5.js",
+    "static/js/846.2e637e71.js": "/static/js/846.2e637e71.js",
+    "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Ionicons.ttf": "/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.f53980f5.js.map": "/static/js/main.f53980f5.js.map",
+    "846.2e637e71.js.map": "/static/js/846.2e637e71.js.map"
   },
   "entrypoints": [
     "static/js/846.2e637e71.js",
-    "static/js/main.5417028f.js"
+    "static/js/main.f53980f5.js"
   ]
 }
