@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Kotoja - ハンゴル読み方検索機",
+  "short_name": "Kotoja - ハンゴル読み方検索機",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
